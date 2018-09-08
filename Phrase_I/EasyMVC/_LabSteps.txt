@@ -202,6 +202,9 @@ app.get("/:controllerName/:actionName", function (request, response) {
 4.8 以下列網址測試程式:
     https://njs-wchien.c9users.io/member
 
+https://njs-wchien.c9users.io/member.html
+
+<img src="/image/cc.png" />
 
 5   一些實驗
 
