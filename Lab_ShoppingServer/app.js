@@ -2,6 +2,9 @@
 var express = require("express");
 var app = express();
 
+// var cors = require('cors')
+// app.use(cors())
+
 // 以 body-parser 模組協助 Express 解析表單與JSON資料
 var bodyParser = require('body-parser');
 app.use( bodyParser.json() );
